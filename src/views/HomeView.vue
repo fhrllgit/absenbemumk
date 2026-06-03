@@ -60,7 +60,7 @@
               <div class="w-0.5 h-5 bg-[#C8A96E]"></div>
               <span class="text-xs font-bold uppercase tracking-[0.18em] text-[#9B9286]">Foto Bersama</span>
             </div>
-            <span class="text-[10px] text-[#C2BDB5] tracking-wide">Pengurus 2024/2025</span>
+            <span class="text-[10px] text-[#C2BDB5] tracking-wide">Pengurus 2026/2027</span>
           </div>
           <div class="relative rounded-xl overflow-hidden border border-[#E5E2DC] bg-white shadow-sm">
             <span class="absolute top-3 left-3 w-4 h-4 border-t border-l border-[#C8A96E] z-10 pointer-events-none"></span>
@@ -148,7 +148,7 @@
               <span class="text-[#C8A96E] text-[10px] font-bold uppercase tracking-[0.2em]">Jadwal Kebersihan</span>
             </div>
             <h1 class="font-display text-3xl sm:text-4xl font-bold text-white tracking-tight">Jadwal Piket</h1>
-            <p class="text-white/40 text-sm mt-2 font-medium">Periode Maret – Desember 2025</p>
+            <p class="text-white/40 text-sm mt-2 font-medium">Periode Maret – Desember 2026</p>
           </div>
         </section>
 
@@ -282,7 +282,7 @@
         <span class="text-xs font-semibold text-[#111] tracking-tight">BEM UMK 2026</span>
         <span class="text-[10px] text-[#C2BDB5] hidden sm:inline">· Kabinet Cakrawala Asa</span>
       </div>
-      <p class="text-[10px] text-[#C2BDB5] tracking-wide">© 2025 · Semua hak dilindungi</p>
+      <p class="text-[10px] text-[#C2BDB5] tracking-wide">© 2026 · Semua hak dilindungi</p>
     </footer>
 
   </div>
